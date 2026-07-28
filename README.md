@@ -6,7 +6,7 @@ The application is built around production-style front-end patterns: protected r
 
 ## Live Demo
 
-[View Live](https://your-domain.example.com)
+[View Live](https://book-hub-teal.vercel.app/)
 
 ## Overview
 
