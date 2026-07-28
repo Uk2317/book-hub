@@ -4,10 +4,6 @@ Book Hub is a responsive book discovery application built with React and TypeScr
 
 The application is built around production-style front-end patterns: protected routing, authenticated API requests, clear asynchronous state handling, responsive layouts, and resilient UI states for loading, empty, and error scenarios.
 
-## Live Demo
-
-[View Live](https://book-hub-teal.vercel.app/)
-
 ## Overview
 
 | Route | Description |
